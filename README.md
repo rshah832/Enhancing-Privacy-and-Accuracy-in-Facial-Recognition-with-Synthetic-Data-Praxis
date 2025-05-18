@@ -6,6 +6,10 @@
 
 #### Degree: Doctor of Engineering in Cybersecurity Analytics
 
+#### Paper: TBD
+
+#### Synthetic Data with 1 million images that have been demographically categorized: https://drive.google.com/drive/folders/1SlRpmcte_ka0JtA4vyvCB1OZT4V_DpnK?usp=drive_link
+
 ## Overview
 
 Facial recognition systems have become increasingly widespread, leading to significant privacy and demographic bias concerns. This research explores synthetic data as a viable alternative for facial recognition model training, aiming to enhance privacy and reduce bias through the use of Generative Adversarial Networks (GANs).
